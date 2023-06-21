@@ -1,6 +1,7 @@
 <template>
   <div class="app-container center">
-    <el-empty description="Admin 权限可见" />
+    <!-- <el-empty description="Admin 权限可见" /> -->
+    <div>你好</div>
   </div>
 </template>
 
@@ -10,5 +11,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: wheat;
 }
 </style>
